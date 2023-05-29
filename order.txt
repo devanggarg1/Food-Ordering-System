@@ -1,0 +1,32 @@
+Chole Bhatura
+Pav Bhaji
+Matar Paneer
+Kadai Paneer
+Paneer Butter Masala
+Dal Makhani
+Dal Fry
+Kulcha Chole
+Malai Kofta
+Paneer Lababdar
+Devang
+Harsh
+John
+Yash
+Anupam
+Utkarsh
+1001
+1002
+1003
+2001
+2002
+3001
+3002
+3003
+4001
+4002
+0010010101
+0100111101
+1110001100
+0000000000
+0110110100
+1010100001
